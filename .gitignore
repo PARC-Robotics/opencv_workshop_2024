@@ -1,3 +1,6 @@
 **/__pycache__
 find_tomatoes.py
 find_tomatoes_ros.py
+basic_img_operations_local.py
+image_subscriber_local.py
+workshop.md
